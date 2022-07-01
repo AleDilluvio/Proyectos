@@ -1,0 +1,1 @@
+Proyecto perteneciente a la materia Paradigmas de Programación, desarrollado en Visual Studio Code con Prolog. El objetivo es hacer una base de datos de todas las materias del plan de estudio de Ingeniería en Sistemas y, mediante esta, hacer una serie de funciones para obtener las cursadas que aprobó un alumno, las correlativas entre materia y materia, entre muchos otros.
