@@ -14,6 +14,8 @@ Juego desarrollado en Wollok. (el main se encuentra en src/isaac.wlk)
 ![](ScreemShot2.png)
 ![](ScreemShot3.png)
 
+Gameplay: https://drive.google.com/file/d/1KvfhmuCo1ZRij9ZQzGaXSrXFeCY2vlD0/view?usp=drive_link
+
 ## Reglas de Juego / Instrucciones
 
 El juego esta basado en "The Binding of Isaac". El objetivo del juego es eliminar a todos los enemigos que
